@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author raymo
- *
- */
-module raymondAkkaselMidProjectLNT {
-}
